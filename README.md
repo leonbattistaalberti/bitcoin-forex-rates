@@ -1,3 +1,10 @@
+### Deployed to Vercel
+- https://bitcoin-forex-rates.vercel.app/
+- Latest Bitcoin and Forex Rates using APIs: 
+1. https://api.coindesk.com/
+2. https://api.exchangeratesapi.io
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
